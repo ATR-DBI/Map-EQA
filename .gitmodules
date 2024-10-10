@@ -1,0 +1,9 @@
+[submodule "libs/habitat-lab"]
+	path = libs/habitat-lab
+	url = git@github.com:K0uya/habitat-lab_v0.2.1.git
+[submodule "libs/astar_pycpp"]
+	path = libs/astar_pycpp
+	url = git@github.com:srama2512/astar_pycpp.git
+[submodule "libs/Detic"]
+	path = libs/Detic
+	url = git@github.com:facebookresearch/Detic.git
